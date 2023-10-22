@@ -1,0 +1,59 @@
+.phoneshop{
+   position:absolute;
+   height:200px;
+   width:200px;
+   top:10%;
+   left:20%;
+}
+
+form{
+  padding-top: 8px;
+}
+
+h1 {
+  font-size: 1.6em;
+  position:relative;
+ 
+
+}
+
+label{
+  position:relative;
+  display:flex;
+  flex-direction:column; 
+
+}
+
+.phonedetails{
+  position:relative;
+  display:flex;
+  flex-direction:row;
+  box-sizing:border-box;
+  
+  
+}
+
+img{
+  margin-top:15px;
+  margin-right:10px;
+  height:80px;
+}
+
+p{
+  margin-top:12px;
+  font-size:12.5px;
+  
+}
+
+.speaker{
+  position:relative;
+  display:flex;
+  flex-direction:row;
+  width:25px;
+  height:25px;
+  margin-left:5px;
+  padding-left:3px;
+}
+
+
+
